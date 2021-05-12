@@ -1,0 +1,31 @@
+body{
+    margin: 0%;
+
+}
+
+header{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    width: 100vw;
+    height: 15vh;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-size: 110px;
+    color: white;
+}
+
+.chassbleu{
+    width: 30vw;
+}
+
+.articlechasse{
+    /* width: 60vw; */
+    display: flex;
+  margin: 80px;
+
+} 
